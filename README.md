@@ -25,8 +25,8 @@ I am a results-driven professional finishing my Engineering degree in Spain, com
 
 ### 📊 GitHub Activity
 
-![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight)
+![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manulago&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manulago&layout=compact&theme=tokyonight)
 
 ---
 
