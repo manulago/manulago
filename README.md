@@ -1,7 +1,7 @@
 # Hi there, I'm Manu! 👋
 
 ### 🎓 Computer Science Engineer & Dual Degree Graduate
-I am a results-driven professional finishing my Engineering degree in Spain, complemented by a strong academic background in Business and Economics from Romania. I specialize in bridging technical engineering with business logic.
+I am a results-driven professional finishing my Engineering degree in Spain, complemented by a strong academic background in Computer Science for Business and Economics from Romania. I specialize in bridging technical engineering with business logic.
 
 - 🎓 **Education:**
   - **B.S. in Computer Science Engineering** – Universidade da Coruña (UDC), Spain (Graduating June 2026).
